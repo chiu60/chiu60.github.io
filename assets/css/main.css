@@ -3153,11 +3153,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #9bf1ff;
+				background-color: hsl(195, 11%, 93%);
 			}
 
 			#header .logo:active strong {
-				background-color: #53e3fb;
+				background-color: #f2f1ed;
 			}
 
 		#header nav {
