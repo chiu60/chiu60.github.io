@@ -2661,7 +2661,7 @@ input, select, textarea {
 				input[type="button"].next,
 				button.next,
 				.button.next {
-					padding-right: 6em;
+					padding-right: 10em;
 				}
 
 			}
