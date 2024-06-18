@@ -2661,7 +2661,7 @@ input, select, textarea {
 				input[type="button"].next,
 				button.next,
 				.button.next {
-					padding-right: 10em;
+					padding-right: 20em;
 				}
 
 			}
@@ -2671,7 +2671,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ffffff;
+			background-color: #b22828;
 			box-shadow: none;
 			color: #242943;
 		}
