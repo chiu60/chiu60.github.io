@@ -3418,7 +3418,7 @@ input, select, textarea {
 			opacity: 0.5;
 			position: absolute;
 			top: 0;
-			width: 120%;
+			width: 80%;
 			z-index: 1;
 		}
 
